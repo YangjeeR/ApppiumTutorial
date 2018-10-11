@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Desktop/selenium/selenium-server-standalone-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Desktop/selenium/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Desktop/selenium/commons-validator-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Desktop/selenium/poi/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Desktop/selenium/poi/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Desktop/selenium/poi/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Desktop/selenium/poi/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Desktop/selenium/poi/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Desktop/selenium/poi/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Desktop/selenium/poi/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Desktop/selenium/poi/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Desktop/selenium/poi/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Desktop/selenium/poi/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Desktop/selenium/poi/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Acer/Desktop/selenium/poi/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

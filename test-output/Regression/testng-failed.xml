@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression]">
+  <parameter name="androidversion" value="6"/>
+  <test name="Android(failed)">
+    <parameter name="androidversion" value="6"/>
+    <classes>
+      <class name="newpark.appiumtest23">
+        <methods>
+          <include name="clickTab"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- newpark.appiumtest23 -->
+    </classes>
+  </test> <!-- Android(failed) -->
+</suite> <!-- Failed suite [Regression] -->
